@@ -2,11 +2,37 @@ h1{
     background-color:#000;
     color: #fff;
     text-align: right;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
 }
 
 body{
-    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMeDB5NZkrxOdQIPhBoxnxhJvuxyfQTRxmDg&s );
+    background-image: url(https://fotografias.larazon.es/clipping/cmsimages02/2025/04/14/DBF6AF6C-43AC-4E7C-BD81-44E43B337B1E/escritor-peruano-mario-vargas-llosa-presentacion-serie-vida-palabras-hoy-capital-mexicana_98.jpg?crop=4593,2584,x0,y241&width=1900&height=1069&optimize=low&format=webply://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMeDB5NZkrxOdQIPhBoxnxhJvuxyfQTRxmDg&s );
     background-repeat: no-repeat;
     background-size: cover;
 }
 
+
+p{
+    color: #fff;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left; 
+    margin-left: 7%; 
+    margin-top: 12%;
+    width: 57%; 
+    font-size: 30px; 
+    line-height: 1.5; 
+    text-indent: 2em; 
+    border-left: 5px solid #fff;
+    padding: 25px;
+}
+
+.parrafo{
+    color: #fff;
+    font-family: 'Courier New', Courier, monospace;
+    position: relative;
+    text-align: left;
+    bottom: -180px;
+    border-left: 0px solid #fff;
+    
+}
